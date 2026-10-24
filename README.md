@@ -73,7 +73,7 @@ The head-to-head visual compares the six meetings included in the dashboard.
 The repository is intended to contain:
 
 - `Chelsea_Tottenham_Analysis.pbix` — the Power BI report
-- `dashboard-preview.png` — a screenshot of the report
+- `Chelsea_Tottenham_PreMatch.png` — a screenshot of the report
 - `README.md` — this project overview
 
 The original source CSV files are intentionally omitted for now pending confirmation of redistribution terms.
